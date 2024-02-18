@@ -68,13 +68,13 @@ section {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url(../../images/pattern-background-mobile.svg);
+  background-image: url(../images/pattern-background-mobile.svg);
   background-repeat: no-repeat;
   padding: 4.4375rem 1.5rem;
 }
 @media (min-width: 56.25em) {
   section {
-    background-image: url(../../images/pattern-background-desktop.svg);
+    background-image: url(../images/pattern-background-desktop.svg);
     padding: 6.375rem 0 0 0;
   }
 }
